@@ -1,10 +1,10 @@
-# Javascript30 Tutorial Countdown Timer
+# :zap: Javascript30 Tutorial Countdown Timer
 
 * Wes Bos Youtube Tutorial 29/30: [Vanilla JS Countdown Timer - #JavaScript30 29/30](https://www.youtube.com/watch?v=LAaf7-WuJJQ).
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -15,23 +15,23 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## :books: General info
 
 * Uses javascript to display a countdown with inputs from html form input or from buttons with fixed times.
 
-## Screenshots
+## :camera: Screenshots
 
 ![Example screenshot](./img/timer.png).
 
-## Technologies
+## :signal_strength: Technologies
 
 * [Javascript v1.9 ECMA-262 ECMAScript 2018](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
-## Setup
+## :floppy_disk: Setup
 
 * Open index.html in browser. If any code is changed the browser needs to be refreshed.
 
-## Code Examples
+## :computer: Code Examples
 
 * Code to display time left. 
 
@@ -45,20 +45,19 @@ function displayTimeLeft(seconds) {
 }
 ```
 
-## Features
+## :cool: Features
 
 * A range of times can be selected or a custom time can be created.
 
-## Status & To-Do List
+## :clipboard: Status & To-Do List
 
 * Status: Working. Updated to work from browser, not from Glitch.
+* To-Do: nothing
 
-* To-Do:
-
-## Inspiration
+## :clap: Inspiration
 
 * Wes Bos Youtube Tutorial 29/30: [Vanilla JS Countdown Timer - #JavaScript30 29/30](https://www.youtube.com/watch?v=LAaf7-WuJJQ)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
